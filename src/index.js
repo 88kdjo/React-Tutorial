@@ -7,7 +7,9 @@ import reportWebVitals from './reportWebVitals';
 // import Clock from './chapter_04/Clock';
 // import CommentList from './chapter_05/CommentList';
 // import NotificationList from './chapter_06/NotificationList';
-import Accommodate from './chapter_07/Accommodate';
+// import Accommodate from './chapter_07/Accommodate';
+// import ConfirmButtonClassComponent from './chapter_08/ConfirmButtonClassComponent';
+import ConfirmButtonFunctionComponent from './chapter_08/ConfirmButtonFunctionComponent';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -15,7 +17,9 @@ root.render(
     // <Library />
     // <CommentList />
     // <NotificationList />
-    <Accommodate />
+    // <Accommodate />
+    // <ConfirmButtonClassComponent />
+    <ConfirmButtonFunctionComponent />
 );
 
 // setInterval( () => {
