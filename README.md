@@ -1,3 +1,7 @@
+## React Tutorial
+
+본 프로젝트는 React를 배우기 위해 만들어진 React Tutorial입니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
