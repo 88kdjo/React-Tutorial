@@ -10,7 +10,8 @@ import reportWebVitals from './reportWebVitals';
 // import Accommodate from './chapter_07/Accommodate';
 // import ConfirmButtonClassComponent from './chapter_08/ConfirmButtonClassComponent';
 // import ConfirmButtonFunctionComponent from './chapter_08/ConfirmButtonFunctionComponent';
-import LandingPage from './chapter_09/LandingPage';
+// import LandingPage from './chapter_09/LandingPage';
+import AttendanceBook from './chapter_10/AttendanceBook';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -21,7 +22,8 @@ root.render(
     // <Accommodate />
     // <ConfirmButtonClassComponent />
     // <ConfirmButtonFunctionComponent />
-    <LandingPage />
+    // <LandingPage />
+    <AttendanceBook />
 );
 
 // setInterval( () => {
